@@ -97,6 +97,7 @@ export const buyBonus = (
   });
 };
 
+// Format number to simplify
 export const formatBytes = (bytes: number, decimals = 0) => {
   if (!+bytes) return "0 FLOPS";
 
