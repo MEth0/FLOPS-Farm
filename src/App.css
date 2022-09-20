@@ -1,13 +1,29 @@
 .App {
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .App-header {
   margin-top: 20px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  font-size: calc(10px + 2vmin);
+  font-size: 30px;
   color: white;
-  font-family: 'Courier New', Courier, monospace;
+  margin-bottom: 20px;
+}
+
+.subtitle {
+  font-size: 20px;
+}
+
+.logs {
+  position: absolute;
+  background-color: black;
+  margin: 5px;
+  cursor: pointer;
+}
+
+.mainGame {
+  display: flex;
+  flex-direction: row;
 }

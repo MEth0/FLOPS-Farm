@@ -1,15 +1,14 @@
-import { GameState } from "../App";
-
-type GameUpdater = {
-  state: GameState;
-  setState: React.Dispatch<React.SetStateAction<GameState>>;
-};
+import { GameUpdater } from "./types";
+import { Upgrades } from "./Upgrades";
 
 export const doTick = ({ state, setState }: GameUpdater, delta: number) => {
   delta = Math.round(delta * 10) / 10;
 
   const calculatePerSec = () => {
-    const perSec = state.auto.amount;
+    let perSec = 0;
+    state.upgrades.forEach((upgrade, i) => {
+      perSec += upgrade.amount * Upgrades[i].addPerSec;
+    });
     return perSec;
   };
 
@@ -18,7 +17,10 @@ export const doTick = ({ state, setState }: GameUpdater, delta: number) => {
 
   setState({
     ...state,
-    flops: { ...state.flops, amount: state.flops.amount + perTick * delta },
+    flops: {
+      ...state.flops,
+      amount: state.flops.amount + perTick * delta,
+    },
     perSec,
   });
 };
