@@ -62,7 +62,7 @@ export const Upgrades = [
   {
     name: "Supercomputer",
     cost: 1000000,
-    amount: 1,
+    amount: 0,
     addPerSec: 10000,
   },
   {
