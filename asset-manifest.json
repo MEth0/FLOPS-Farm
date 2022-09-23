@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.457f11d4.css",
-    "main.js": "/static/js/main.ebdc8894.js",
-    "static/js/787.a52e439d.chunk.js": "/static/js/787.a52e439d.chunk.js",
-    "static/media/MorePerfectDOSVGA.ttf": "/static/media/MorePerfectDOSVGA.4745a97bfc71820f88fd.ttf",
-    "index.html": "/index.html",
-    "main.457f11d4.css.map": "/static/css/main.457f11d4.css.map",
-    "main.ebdc8894.js.map": "/static/js/main.ebdc8894.js.map",
-    "787.a52e439d.chunk.js.map": "/static/js/787.a52e439d.chunk.js.map"
+    "main.css": "/FLOPS-Farm/static/css/main.7d2f9154.css",
+    "main.js": "/FLOPS-Farm/static/js/main.a3597b01.js",
+    "static/js/787.a52e439d.chunk.js": "/FLOPS-Farm/static/js/787.a52e439d.chunk.js",
+    "static/media/MorePerfectDOSVGA.ttf": "/FLOPS-Farm/static/media/MorePerfectDOSVGA.4745a97bfc71820f88fd.ttf",
+    "index.html": "/FLOPS-Farm/index.html",
+    "main.7d2f9154.css.map": "/FLOPS-Farm/static/css/main.7d2f9154.css.map",
+    "main.a3597b01.js.map": "/FLOPS-Farm/static/js/main.a3597b01.js.map",
+    "787.a52e439d.chunk.js.map": "/FLOPS-Farm/static/js/787.a52e439d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.457f11d4.css",
-    "static/js/main.ebdc8894.js"
+    "static/css/main.7d2f9154.css",
+    "static/js/main.a3597b01.js"
   ]
 }
