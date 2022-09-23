@@ -16,7 +16,7 @@
     <a href="https://github.com/MEth0/FLOPS-Farm"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://MEth0.github.io/FLOPS-Farm">Play now</a>
+    <a href="https://MEth0.github.io/FLOPS-Farm">▶️Play now</a>
     ·
     <a href="https://github.com/MEth0/FLOPS-Farm/issues">Report Bug</a>
     ·
@@ -84,6 +84,8 @@ Small game made for The Microsoft Global Hackathon.
 [contributors-url]: https://github.com/MEth0/FLOPS-Farm/graphs/contributors
 [issues-shield]: https://img.shields.io/github/issues/MEth0/FLOPS-Farm.svg
 [issues-url]: https://github.com/MEth0/FLOPS-Farm/issues
-[product-screenshot]: images/screenshot.png
+
+<!-- [product-screenshot]: images/screenshot.png -->
+
 [react.js]: https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB
 [react-url]: https://reactjs.org/
