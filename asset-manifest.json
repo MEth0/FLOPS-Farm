@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/FLOPS-Farm/static/css/main.7d2f9154.css",
-    "main.js": "/FLOPS-Farm/static/js/main.a3597b01.js",
+    "main.js": "/FLOPS-Farm/static/js/main.18a5501a.js",
     "static/js/787.a52e439d.chunk.js": "/FLOPS-Farm/static/js/787.a52e439d.chunk.js",
     "static/media/MorePerfectDOSVGA.ttf": "/FLOPS-Farm/static/media/MorePerfectDOSVGA.4745a97bfc71820f88fd.ttf",
     "index.html": "/FLOPS-Farm/index.html",
     "main.7d2f9154.css.map": "/FLOPS-Farm/static/css/main.7d2f9154.css.map",
-    "main.a3597b01.js.map": "/FLOPS-Farm/static/js/main.a3597b01.js.map",
+    "main.18a5501a.js.map": "/FLOPS-Farm/static/js/main.18a5501a.js.map",
     "787.a52e439d.chunk.js.map": "/FLOPS-Farm/static/js/787.a52e439d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d2f9154.css",
-    "static/js/main.a3597b01.js"
+    "static/js/main.18a5501a.js"
   ]
 }
