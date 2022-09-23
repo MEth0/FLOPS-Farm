@@ -65,7 +65,7 @@ export const buyBonus = (
   { state, setState }: GameUpdater,
   { logs, setLogs }: LogUpdater
 ) => {
-  // get index of upgrade
+  // get index of bonus
   const index = Bonus.findIndex((bonus) => bonus.name === bonusName);
   if (index === -1) {
     return;
@@ -87,7 +87,7 @@ export const buyBonus = (
     ...state,
     flops: {
       ...state.flops,
-      amount: state.flops.amount - state.upgrades[index].cost,
+      amount: state.flops.amount - state.bonus[index].cost,
     },
     bonus: state.bonus.map((bonus) =>
       bonus.name === bonusName
