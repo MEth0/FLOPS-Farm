@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.457f11d4.css",
+    "main.js": "/static/js/main.ebdc8894.js",
+    "static/js/787.a52e439d.chunk.js": "/static/js/787.a52e439d.chunk.js",
+    "static/media/MorePerfectDOSVGA.ttf": "/static/media/MorePerfectDOSVGA.4745a97bfc71820f88fd.ttf",
+    "index.html": "/index.html",
+    "main.457f11d4.css.map": "/static/css/main.457f11d4.css.map",
+    "main.ebdc8894.js.map": "/static/js/main.ebdc8894.js.map",
+    "787.a52e439d.chunk.js.map": "/static/js/787.a52e439d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.457f11d4.css",
+    "static/js/main.ebdc8894.js"
+  ]
+}
